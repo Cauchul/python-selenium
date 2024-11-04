@@ -1,2 +1,2 @@
 # python-selenium
-python使用selenium
+学习使用python使用selenium
